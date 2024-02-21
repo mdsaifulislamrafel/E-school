@@ -1,0 +1,195 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.offcanvas-body {
+    background-color: #3344;
+  }
+.head-bg {
+    background-color:  #F0FFF0;
+}
+.school {
+    width: 199px;
+    height: 69px;
+}
+.button {
+    width: 104px;
+    height: 43px;
+    border-radius: 33px;
+    border: none;
+    color: #fff;
+    background: #21B573;
+    padding: 12px, 28px, 12px, 28px;
+    font-size: 16px;
+}
+
+.head-text {
+    margin-top: 95px;
+}
+.head-text img {
+    width: 80%;
+    margin-top: 157px;
+    margin-bottom: 100px;
+}
+.head-text small {
+    color: #FD511A;
+    font-size: 16px;
+}
+.head-text h1 {
+    width: 405px;
+    height: 140px;
+    font-size: 48px;   
+}
+.head-text h1 span {
+    color: #21B573;
+}
+.head-text p {
+    width: 403px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+.get-button {
+    width: 153px;
+    height: 43px;
+    border-radius: 33px;
+    border: none;
+    color: #fff;
+    background: #21B573;
+    font-size: 16px;
+    padding: 10px 30px;
+}
+
+.cat {
+    background-color: #F8FFFB;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin: auto;
+}
+.white:hover, .whitee {
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    transition: .5s;
+}
+.cat img {
+    width: 80px;
+    height: 85px;
+    margin: 52px 0;
+
+}
+.cat p {
+    margin-bottom: 43px;
+}
+.scound {
+    margin-top: 50px;
+    margin-bottom: 58px;
+}
+.center {
+    text-align: center;
+    padding: 12px 0;
+}
+.card-img-top {
+    padding: 25px 20px;
+  }
+  .card {
+    border-radius: 1.25rem;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    
+}
+.card:hover {
+    border: 1px solid #6C6B6B;
+    transition: .5s;
+}
+
+#others h1 {
+    text-align: center;
+    margin-bottom: 54px;
+    font-size: 36px;
+    color: #413960;
+    font-weight: bold;
+}
+.card-title  {
+    color: #413960;
+    font-size: 24px;
+    margin-top: -19px;
+}
+.card-text {
+    color: #585859;
+
+}
+.icon {
+    width: 18px;
+}
+.p-text {
+    margin-bottom: 0;
+    margin-left: 3px;
+    color: #585859;
+}
+.pp {
+    margin-top: 34px;
+}
+#blog {
+    margin-bottom: 150px;
+}
+#blog h1 {
+    text-align: center;
+    margin: 100px 0;
+    font-size: 36px;
+    font-weight: bold;
+}
+#blog img {
+    width: 120px;
+    float: right;
+}
+#blog p {
+    width: 69%;
+    line-height: 30px;
+    margin-left: 52px;
+}
+li {
+    list-style-type: none;
+    color: #fff;
+    opacity: .8;
+}
+li:hover {
+    opacity: 1;
+}
+
+.footer-section {
+    background-color: #282531;
+}
+.footer-area {
+    padding: 55px 143px;
+}
+.text-box {
+    width: 367px;
+    line-height: 30px;
+    color: #fff;
+}
+.bold {
+    font-weight: bold;
+    opacity: 1;
+}
+.footer {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 27px;
+}
+
+
+
+
+.nav-item {
+    margin-left: 12px;
+}
+.navbar-toggler {
+    width: 50px;
+    height: 50px;
+  }
+
+
+
+
+

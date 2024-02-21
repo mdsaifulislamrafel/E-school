@@ -1,0 +1,23 @@
+@media all and (max-width: 1200px) {
+    .text-box {
+        margin-left: -100px;
+      }
+      .cat {
+        width: 270px;
+    }
+}
+@media all and (max-width: 1000px) {
+    .text-box {
+        margin-left: -125px;
+      }
+}
+@media all and (max-width: 742px) {
+.head-img {
+    margin-left: 50px;
+}
+}
+@media all and (max-width: 416px) {
+  .head-text img {
+    margin-left: 27px;
+}
+}
